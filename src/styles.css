@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  background-color: white;
+  padding-top: 50px;
+  min-height: 100vh;
+}
+
+.quote {
+  margin: auto;
+  width: 100%;
+  max-width: 400px;
+  min-height: 180px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+p {
+  font-weight: 700;
+  font-size: 18px;
+}
